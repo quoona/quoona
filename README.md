@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS, ReactJS
 - 🌱 I’m currently learning JS, ReactJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me nqnam229@gmail.com
 
 <!---
 quoona/quoona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
