@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @quoona
-- 👀 I’m interested in JS, ReactJS
-- 🌱 I’m currently learning JS, ReactJS
+//
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nqnam229@gmail.com
 
