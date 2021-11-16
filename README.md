@@ -1,5 +1,6 @@
 - <h1>👋 Hi, I’m @quoona</h1>
 -  I’m currently learning at HCMUNRE University
+-  My skill: HTML CSS, JS, React, PHP
 - 📫 How to reach me nqnam229@gmail.com
 - It was nice seeing you <3
 - https://www.facebook.com/nqn229/
